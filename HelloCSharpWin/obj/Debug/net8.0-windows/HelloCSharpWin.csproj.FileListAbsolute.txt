@@ -1,0 +1,16 @@
+C:\Users\nexxu\source\repos\HelloCSharpWin\HelloCSharpWin\bin\Debug\net8.0-windows\HelloCSharpWin.exe
+C:\Users\nexxu\source\repos\HelloCSharpWin\HelloCSharpWin\bin\Debug\net8.0-windows\HelloCSharpWin.deps.json
+C:\Users\nexxu\source\repos\HelloCSharpWin\HelloCSharpWin\bin\Debug\net8.0-windows\HelloCSharpWin.runtimeconfig.json
+C:\Users\nexxu\source\repos\HelloCSharpWin\HelloCSharpWin\bin\Debug\net8.0-windows\HelloCSharpWin.dll
+C:\Users\nexxu\source\repos\HelloCSharpWin\HelloCSharpWin\bin\Debug\net8.0-windows\HelloCSharpWin.pdb
+C:\Users\nexxu\source\repos\HelloCSharpWin\HelloCSharpWin\obj\Debug\net8.0-windows\HelloCSharpWin.Calculator.resources
+C:\Users\nexxu\source\repos\HelloCSharpWin\HelloCSharpWin\obj\Debug\net8.0-windows\HelloCSharpWin.csproj.GenerateResource.cache
+C:\Users\nexxu\source\repos\HelloCSharpWin\HelloCSharpWin\obj\Debug\net8.0-windows\HelloCSharpWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nexxu\source\repos\HelloCSharpWin\HelloCSharpWin\obj\Debug\net8.0-windows\HelloCSharpWin.AssemblyInfoInputs.cache
+C:\Users\nexxu\source\repos\HelloCSharpWin\HelloCSharpWin\obj\Debug\net8.0-windows\HelloCSharpWin.AssemblyInfo.cs
+C:\Users\nexxu\source\repos\HelloCSharpWin\HelloCSharpWin\obj\Debug\net8.0-windows\HelloCSharpWin.csproj.CoreCompileInputs.cache
+C:\Users\nexxu\source\repos\HelloCSharpWin\HelloCSharpWin\obj\Debug\net8.0-windows\HelloCSharpWin.dll
+C:\Users\nexxu\source\repos\HelloCSharpWin\HelloCSharpWin\obj\Debug\net8.0-windows\refint\HelloCSharpWin.dll
+C:\Users\nexxu\source\repos\HelloCSharpWin\HelloCSharpWin\obj\Debug\net8.0-windows\HelloCSharpWin.pdb
+C:\Users\nexxu\source\repos\HelloCSharpWin\HelloCSharpWin\obj\Debug\net8.0-windows\HelloCSharpWin.genruntimeconfig.cache
+C:\Users\nexxu\source\repos\HelloCSharpWin\HelloCSharpWin\obj\Debug\net8.0-windows\ref\HelloCSharpWin.dll
