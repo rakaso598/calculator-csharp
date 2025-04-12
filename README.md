@@ -11,6 +11,8 @@
 같은 함수를 여러번 선언할 수 있지만 매개변수가 달라야 함.
 return형은 그 함수가 유니크한지 아닌지는 결정하지 않음. (의미가 없음)
 
+- 기능과 UI는 분리하는 것이 좋다 -> UI는 언제든 변경될 수 있기 때문.
+
 ```
 public void Flush(Number1);
 public void Flush(Number2);
