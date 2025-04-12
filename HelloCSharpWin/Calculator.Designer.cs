@@ -39,7 +39,7 @@
             // 
             HelloLabel.AutoSize = true;
             HelloLabel.Cursor = Cursors.Hand;
-            HelloLabel.Location = new Point(32, 98);
+            HelloLabel.Location = new Point(23, 27);
             HelloLabel.Name = "HelloLabel";
             HelloLabel.Size = new Size(107, 15);
             HelloLabel.TabIndex = 0;
@@ -48,7 +48,7 @@
             // 
             // SumNumbers
             // 
-            SumNumbers.Location = new Point(231, 142);
+            SumNumbers.Location = new Point(167, 78);
             SumNumbers.Name = "SumNumbers";
             SumNumbers.Size = new Size(75, 23);
             SumNumbers.TabIndex = 1;
@@ -58,21 +58,21 @@
             // 
             // Sum1
             // 
-            Sum1.Location = new Point(32, 142);
+            Sum1.Location = new Point(23, 78);
             Sum1.Name = "Sum1";
             Sum1.Size = new Size(66, 23);
             Sum1.TabIndex = 3;
             // 
             // Sum2
             // 
-            Sum2.Location = new Point(130, 142);
+            Sum2.Location = new Point(95, 78);
             Sum2.Name = "Sum2";
             Sum2.Size = new Size(66, 23);
             Sum2.TabIndex = 4;
             // 
             // SumResult
             // 
-            SumResult.Location = new Point(330, 142);
+            SumResult.Location = new Point(248, 79);
             SumResult.Name = "SumResult";
             SumResult.Size = new Size(66, 23);
             SumResult.TabIndex = 5;
@@ -81,7 +81,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(515, 298);
+            ClientSize = new Size(339, 135);
             Controls.Add(SumResult);
             Controls.Add(Sum2);
             Controls.Add(Sum1);
