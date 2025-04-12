@@ -29,44 +29,63 @@
         private void InitializeComponent()
         {
             HelloLabel = new Label();
-            button1 = new Button();
-            textBox1 = new TextBox();
+            SumNumbers = new Button();
+            Sum1 = new TextBox();
+            Sum2 = new TextBox();
+            SumResult = new TextBox();
             SuspendLayout();
             // 
             // HelloLabel
             // 
             HelloLabel.AutoSize = true;
             HelloLabel.Cursor = Cursors.Hand;
-            HelloLabel.Location = new Point(99, 81);
+            HelloLabel.Location = new Point(32, 98);
             HelloLabel.Name = "HelloLabel";
             HelloLabel.Size = new Size(107, 15);
             HelloLabel.TabIndex = 0;
             HelloLabel.Text = "여기를 클릭하세요";
             HelloLabel.Click += HelloLabel_Click;
             // 
-            // button1
+            // SumNumbers
             // 
-            button1.Location = new Point(99, 216);
-            button1.Name = "button1";
-            button1.Size = new Size(75, 23);
-            button1.TabIndex = 1;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
+            SumNumbers.Location = new Point(231, 142);
+            SumNumbers.Name = "SumNumbers";
+            SumNumbers.Size = new Size(75, 23);
+            SumNumbers.TabIndex = 1;
+            SumNumbers.Text = "=";
+            SumNumbers.UseVisualStyleBackColor = true;
+            SumNumbers.Click += SumNumbers_Click;
             // 
-            // textBox1
+            // Sum1
             // 
-            textBox1.Location = new Point(99, 155);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(100, 23);
-            textBox1.TabIndex = 2;
+            Sum1.Location = new Point(32, 142);
+            Sum1.Name = "Sum1";
+            Sum1.Size = new Size(66, 23);
+            Sum1.TabIndex = 3;
+            // 
+            // Sum2
+            // 
+            Sum2.Location = new Point(130, 142);
+            Sum2.Name = "Sum2";
+            Sum2.Size = new Size(66, 23);
+            Sum2.TabIndex = 4;
+            // 
+            // SumResult
+            // 
+            SumResult.Location = new Point(330, 142);
+            SumResult.Name = "SumResult";
+            SumResult.Size = new Size(66, 23);
+            SumResult.TabIndex = 5;
             // 
             // Calculator
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
-            Controls.Add(textBox1);
-            Controls.Add(button1);
+            ClientSize = new Size(515, 298);
+            Controls.Add(SumResult);
+            Controls.Add(Sum2);
+            Controls.Add(Sum1);
+            Controls.Add(SumNumbers);
             Controls.Add(HelloLabel);
             Name = "Calculator";
             Text = "Form1";
@@ -77,7 +96,9 @@
         #endregion
 
         private Label HelloLabel;
-        private Button button1;
-        private TextBox textBox1;
+        private Button SumNumbers;
+        private TextBox Sum1;
+        private TextBox Sum2;
+        private TextBox SumResult;
     }
 }

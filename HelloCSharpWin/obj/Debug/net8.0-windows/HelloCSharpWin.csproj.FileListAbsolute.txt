@@ -14,3 +14,4 @@ C:\Users\nexxu\source\repos\HelloCSharpWin\HelloCSharpWin\obj\Debug\net8.0-windo
 C:\Users\nexxu\source\repos\HelloCSharpWin\HelloCSharpWin\obj\Debug\net8.0-windows\HelloCSharpWin.pdb
 C:\Users\nexxu\source\repos\HelloCSharpWin\HelloCSharpWin\obj\Debug\net8.0-windows\HelloCSharpWin.genruntimeconfig.cache
 C:\Users\nexxu\source\repos\HelloCSharpWin\HelloCSharpWin\obj\Debug\net8.0-windows\ref\HelloCSharpWin.dll
+C:\Users\nexxu\source\repos\HelloCSharpWin\HelloCSharpWin\obj\Debug\net8.0-windows\HelloCSharpWin.sourcelink.json
